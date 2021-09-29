@@ -1,0 +1,2 @@
+class Modan < ApplicationRecord
+end
